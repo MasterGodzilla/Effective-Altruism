@@ -232,3 +232,109 @@ DeepMind 于2010年在英国伦敦成立，时间上略早于“有效利他主�
 * **慈善寡头化与思想单一**：由于全球AI安全与相关智库领域高度依赖 Coefficient Giving 和 SFF 等极少数亿万富豪资金池，受助学者、评测机构与媒体记者在选题和结论上存在显著的迎合资助方倾向，压缩了学术与政策讨论的多元性。
 * **隐蔽的舆论闭环**：通过基金会同时资助上游智库报告、被采访专家及下游主流媒体驻点记者，或利用政治旋转门引导针对商业竞争对手的国家安全叙事，却不在报道与评论中披露背后的利益关联，被批评严重模糊了独立公共监督与商业政治围猎之间的界限。
 * **监管俘获嫌疑**：以开源AI社区和部分硅谷风投机构为代表的反对派认为，以有效利他主义为底色的头部大模型企业一边享受近万亿美元级别的商业估值与IPO红利，一边斥巨资在华盛顿游说算力门槛、限制开源权重并打击芯片自由流通，客观上起到了利用国家机器清除异己、巩固少数闭源巨头垄断地位的效果。
+
+## 参考
+
+### 1. Origins, Core Philosophy, and Longtermism
+
+[1] Peter Singer, "Famine, Affluence, and Morality," Philosophy & Public Affairs, Vol. 1, No. 3, pp. 229-243, Spring 1972.
+
+[2] Centre for Effective Altruism, "How effective altruism has changed over time" (covering Giving What We Can founded in 2009, 80,000 Hours, GiveWell, and Bay Area / Oxford existential risk communities), October 7, 2026.
+
+[3] Toby Ord, The Precipice: Existential Risk and the Future of Humanity, Hachette Books / Bloomsbury Publishing, March 2020.
+
+[4] William MacAskill, What We Owe the Future, Basic Books, August 2022.
+
+### 2. Funding Networks, Coefficient Giving, FTX Crisis, and Equity Flywheel
+
+[5] Coefficient Giving (formerly Open Philanthropy), "Press Release: Open Philanthropy Becomes Coefficient Giving, Expanding Work With Multiple Donors," November 18, 2025. https://coefficientgiving.org
+
+[6] Coefficient Giving, "Our History | Coefficient Giving" (documenting GiveWell Labs 2011, Open Philanthropy Project 2014-2025, and November 2025 transition to Coefficient Giving).
+
+[7] Coefficient Giving, "We're Urgently Scaling Our Work on AI and Biosecurity" and "Navigating Transformative AI" (documenting cumulative grantmaking exceeding $7B-$8B, Project Tailwind, and AI safety scaling), September 9, 2026.
+
+[8] GiveWell, "Coefficient Giving Commits $175 Million to GiveWell Opportunities," December 18, 2025.
+
+[9] Sophie Alexander and Laura Davison, "Bankman-Fried's Effective Altruism Implodes With His Fortunes," Bloomberg, November 11, 2022. https://www.bloomberg.com/news/articles/2022-11-11/bankman-fried-s-effective-altruism-implodes-with-his-fortunes
+
+[10] Centre for Effective Altruism, "Sam Bankman-Fried, FTX, and effective altruism" (documenting FTX Future Fund clawbacks and Effective Ventures' $26,786,503 bankruptcy settlement), October 15, 2026.
+
+[11] Cory Weinberg, "Anthropic's Big Charity Bill for Shareholders" (reporting >$660M non-cash expense for Oct 2025-Mar 2026 from 3-to-1 employee stock donation matching and founders' 80% wealth pledge), The Information, October 2026.
+
+[12] Associated Press, "Anthropic commits 5% of its stock to a new 'public benefit' fund," AP News, October 18, 2026.
+
+[13] Anthropic, PBC, Form S-1 and Form S-1/A Registration Statement under the Securities Act of 1933 (CIK 0002130357, ticker "ANT", detailing 825M shares offered at $70-$78, Class T stock governance, Anthropic Public Benefit Fund, and donation-match charges), U.S. Securities and Exchange Commission, October 26 - November 2026. https://www.sec.gov/Archives/edgar/data/2130357/
+
+### 3. Think Tanks, Compute Governance, and Media Funding
+
+[14] Georgetown University, "Largest U.S. Center on Artificial Intelligence, Policy Comes to Georgetown" (announcing $55 million Open Philanthropy grant establishing CSET under founding director Jason Matheny), February 28, 2019. https://cset.georgetown.edu
+
+[15] Georgetown University (The Hoya / CSET), "CSET Receives $42 Million Grant, Set To Self-Fund Through 2025" (documenting follow-on Open Philanthropy support bringing CSET funding above $100M), September 9, 2021.
+
+[16] Coefficient Giving Grant Database / Longterm Wiki, "Navigating Transformative AI" (listing verified grants to CSET, OpenAI $30M in March 2017, Institute for AI Policy and Strategy [IAPS], RAND Corporation, Redwood Research, FAR.AI, and CNAS).
+
+[17] Coefficient Giving, Epoch AI Grant Renewal ($68 million 3-year renewal in addition to prior multi-year support), September 9, 2026.
+
+[18] Isabel Juniewicz, "Diversion and resale: estimating compute smuggling to China" (estimating median 660,000 H100-equivalents smuggled to China through 2025), Epoch AI, April 29 / May 1, 2026. https://epoch.ai/publications/chip-smuggling
+
+[19] Erich Grunewald (Institute for AI Policy and Strategy), "How banned AI chips end up in China," The Substrate / Power Law, May 18, 2026. https://blog.peterwildeford.com/p/how-banned-ai-chips-end-up-in-china
+
+[20] Vox Media, "Vox Launches New Section, Future Perfect," October 15, 2018, and Future Perfect Donor Disclosures (listing Rockefeller Foundation, Animal Charity Evaluators, BEMC Foundation, and a $200,000 grant from Sam and Gabe Bankman-Fried's Building a Stronger Future foundation).
+
+[21] Kelsey Piper, "Sam Bankman-Fried tries to explain himself," Vox (Future Perfect), November 16, 2022. https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy
+
+[22] Tarbell Center for AI Journalism, "Tarbell launches $10 million Institutional Grants program to expand AI journalism" (announcing $480,000 for Machine Gods and $250,000 for NPR's Power and Influence team), October 5, 2026.
+
+[23] Max Tani, "AI nonprofit will spend $10 million on journalism," Semafor, October 2026.
+
+[24] Casey Newton and Kevin Roose, "Introducing Machine Gods" (noting Episode 2 interview with two recently fired OpenAI safety researchers), Platformer / NPR, October 22, 2026.
+
+[25] Aisha Down, "Leading AI expert delays timeline for its possible destruction of humanity" (covering Daniel Kokotajlo and AI 2027, quoting Malcolm Murray and Henry Papadatos), The Guardian, January 6, 2026.
+
+[26] Brian Chau et al., "How Effective Altruism Bought the Media" (analyzing undisclosed Coefficient Giving, SFF, Tarbell Fellowship, and Effective Ventures funding across 6 participants in Aisha Down's Guardian article), Effort News, September 2, 2026.
+
+### 4. Frontier AI Labs: Google DeepMind and Anthropic Governance
+
+[27] Anthropic, "The Long-Term Benefit Trust," September 19, 2023 (updated October 2026, listing initial trustees Neil Buddy Shah, Jason Matheny, Paul Christiano, Zach Robinson, Kanika Bahl, and current trustees Shah, Richard Fontaine, Ben Bernanke, and Christopher Stubbs).
+
+[28] Anthropic, "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust," October 21, 2026.
+
+[29] Theo Francis, Wall Street Journal profile on Anthropic's Long-Term Benefit Trust and pre-IPO Class T governance powers, The Wall Street Journal, October 19, 2026.
+
+[30] Sharon Goldman, "Anthropic hired president Daniela Amodei's husband to work on the company's AI safety strategy" (reporting Holden Karnofsky joining Anthropic's technical staff in January 2025), Fortune, February 13, 2025.
+
+### 5. OpenAI November 2023 Board Ouster
+
+[31] Andrew Imbrie, Owen J. Daniels, and Helen Toner, "Decoding Intentions: Artificial Intelligence and Costly Signals," Center for Security and Emerging Technology (CSET), Georgetown University, October 2023.
+
+[32] The Information / Reuters, "OpenAI's board approached Anthropic CEO about top job and merger" (reporting the OpenAI nonprofit board's approach to Dario Amodei and appointment of Emmett Shear following Sam Altman's November 17, 2023 firing), November 21, 2023.
+
+### 6. Nvidia November 2026 Resignation of Jensen Huang and Policy / Lobbying Links
+
+[33] Dream1984Tube, "Who Is Really Behind the Hunt for Jensen Huang?" (OSINT thread compiling media source links, CSET/Georgetown commentators, Chris McGuire/Tarun Chhabra NSC ties, AnthroPAC/Public First Action donations, CNAS/LTBT overlap, and Anthropic's revolving-door hires), X, November 12, 2026. https://x.com/Dream1984Tube/status/2120746927100715509
+
+[34] Mackenzie Hawkins, Andy Lin, and Kari Soo Lindberg, "Nvidia's Biggest Southeast Asian Partner Dogged by China Chip Smuggling Questions," Bloomberg, December 22, 2025. https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us
+
+[35] Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle, and Julian E. Barnes, "Nvidia Chief Seen as Target of Chinese Spy Plot," The New York Times, October 29, 2026. https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html
+
+[36] Ministry of Home Affairs (Singapore), "Clarification Statement on Wall Street Journal's Article," October/November 2026. https://www.mha.gov.sg/media-room/newsroom/clarification-statement-on-wall-street-journals-article
+
+[37] Tripp Mickle et al., "Nvidia Opens Investigation Into Jensen Huang's Relationship With Suspected Chinese Spy," The New York Times, November 8, 2026. https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html
+
+[38] Axios, "Nvidia CEO Jensen Huang admits affair, board to launch investigation," November 8, 2026. https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation
+
+[39] Ana Swanson and Devlin Barrett, report on Commerce Department pausing Megaspeed probe and referral to the Department of Justice, The New York Times, November 9, 2026.
+
+[40] Demetri Sevastopulo, Financial Times reporting on Jensen Huang's romantic relationship with Alice Huang and Nvidia board investigation (November 2026), and prior FT reporting on Anthropic cutting off Chinese-controlled entities (September 2025).
+
+[41] Associated Press / The Guardian / Al Jazeera, "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns" (reporting Huang's immediate resignation on November 12, 2026, Colette Kress named interim CEO, Harvey C. Jones named board chair, second affair with a direct report reported Nov 11, and ~$490B weekly market cap loss), November 12, 2026.
+
+[42] U.S. House Committee on Foreign Affairs / Select Committee on the CCP, "Chairmen Mast, Moolenaar, and Crawford Request Jensen Huang Brief Congress on Link to Chinese Intelligence Asset" (letter dated November 4, 2026, released November 5, 2026, followed by second request on November 12, 2026), November 5 & 12, 2026.
+
+[43] U.S. Senate Letter to Commerce Secretary Howard Lutnick, Secretary of State Marco Rubio, and the White House (led by Sens. Elizabeth Warren and Chris Coons demanding document preservation on Nvidia, Jensen Huang, and Megaspeed), November 11, 2026.
+
+[44] Federal Election Commission (FEC), Statement of Organization and Disbursement Filings for Anthropic PBC Political Action Committee (AnthroPAC, FEC Committee ID C00946111, filed April 3, 2026, recording contributions to Sen. Chris Coons, Sen. Kevin Cramer, and Rep. Brian Mast). https://www.fec.gov
+
+[45] Politico / Axios / PYMNTS, "Anthropic Gives $40 Million to AI Regulation Group" (documenting Anthropic's $20M donation in February 2026 and $20M donation on July 21, 2026 to 501(c)(4) Public First Action, advocating AI safeguards and chip export controls), February 12 & July 22, 2026. https://publicfirstaction.us
+
+[46] Chris McGuire (@ChrisRMcGuire, Senior Fellow at Council on Foreign Relations, former NSC official under Tarun Chhabra), viral X posts and media commentary on Jensen Huang, Megaspeed, and Commerce Department export controls, November 6-11, 2026.
